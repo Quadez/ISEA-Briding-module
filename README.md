@@ -2,7 +2,7 @@
 
 Hi welcome to my repository where I document and reflects on what I have learned on this bridging module.
 
-Things I have learned: <bh>
+Things I have learned:
 Day 1.
 1. What is Linux/Ubuntu. How to install & use it.
 2. What are the pros and cons of Lunix/Ubuntu.
