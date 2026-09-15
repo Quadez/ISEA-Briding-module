@@ -7,12 +7,13 @@ Things I have learned: <br/>
 Day 1.
 1. What is Linux/Ubuntu. How to install & use it.
 2. What are the pros and cons of Lunix/Ubuntu.
-3. What are the errors I encountered, how to deal with them. <br/>
+3. What are the errors I encountered, how to deal with them.
+
 Day 2.
 1. What is AWS/Microsoft Azure.
 2. How to create a VM on their platform.
 3. Setting up a ip address to let others able to ping you
 4. Controlling Ubuntu on your main OS with command prompt.
-<br/>
+
 Day 3.
-1.
+1. test
