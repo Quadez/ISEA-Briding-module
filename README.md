@@ -4,7 +4,7 @@ Hi welcome to my repository where I document and reflects on what I have learned
 
 Things I have learned: <br/>
 <br/>
-Day 1.
+Day 1. <br>
 1. What is Linux/Ubuntu. How to install & use it.
 2. What are the pros and cons of Lunix/Ubuntu.
 3. What are the errors I encountered, how to deal with them.
